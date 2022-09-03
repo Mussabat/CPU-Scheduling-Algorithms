@@ -25,7 +25,7 @@ implemented. Here our new algorithm provides less starvation problem and less re
 </pre>
 
 
-<h2> Proposed Algorithm </h2>
+<h2> Our Proposed Algorithm </h2>
 
 <pre>
 We want to provide an algorithm that will lessen the starvation problem while simultaneously
