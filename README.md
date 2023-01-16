@@ -46,10 +46,10 @@ a result.
 </pre>
 
 
-<h2>FlowChart of our Proposed Algorithm</h3>
+<h2 align = 'center'>FlowChart of our Proposed Algorithm</h3>
 <img src = "https://user-images.githubusercontent.com/84468462/212688588-37597bdc-2210-44be-8507-288e91cdb94d.png"/>
 <hr>
-<h2>Result Comparision</h2>
+<h2 align = 'center'>Result Comparision</h2>
 <img src = "https://user-images.githubusercontent.com/84468462/212688309-04bb1b5a-644d-4358-a648-a3e5e90599fa.png"/>
 
 
